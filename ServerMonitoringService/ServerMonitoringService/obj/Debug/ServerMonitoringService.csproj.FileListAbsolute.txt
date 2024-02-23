@@ -1,0 +1,7 @@
+C:\Users\david\source\repos\ServerMonitoringService\ServerMonitoringService\bin\Debug\ServerMonitoringService.exe.config
+C:\Users\david\source\repos\ServerMonitoringService\ServerMonitoringService\bin\Debug\ServerMonitoringService.exe
+C:\Users\david\source\repos\ServerMonitoringService\ServerMonitoringService\bin\Debug\ServerMonitoringService.pdb
+C:\Users\david\source\repos\ServerMonitoringService\ServerMonitoringService\obj\Debug\ServerMonitoringService.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\ServerMonitoringService\ServerMonitoringService\obj\Debug\ServerMonitoringService.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\ServerMonitoringService\ServerMonitoringService\obj\Debug\ServerMonitoringService.exe
+C:\Users\david\source\repos\ServerMonitoringService\ServerMonitoringService\obj\Debug\ServerMonitoringService.pdb
